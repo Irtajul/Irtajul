@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Md. Irtajul Akhter Khan</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGbP8ByswOYCw/profile-displaybackgroundimage-shrink_350_1400/B56Zo3KLkeHkAY-/0/1761862009615?e=1764201600&v=beta&t=yFUMcWAxUpIrx1YHf-coXhnfLfhVXLRDZcwOtuv7_Ms">
+
 <h3 align="center">Creative Web Designer & Developer | WordPress Professional & Front-End Expert | Helping Small Businesses Grow by Building Stunning Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irtajul&label=Profile%20views&color=0e75b6&style=flat" alt="irtajul" /> </p>
