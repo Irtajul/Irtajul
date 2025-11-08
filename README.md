@@ -7,19 +7,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irtajul" alt="irtajul" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancer](#)
+- 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/devirtajul)
 
-- 🌱 I’m currently learning **JavaScript PHP**
+- 🌱 I’m currently learning **JavaScript PHP MYSQL**
 
 - 👯 I’m looking to collaborate on **Web Design & Development**
 
 - 🤝 I’m looking for help with **Web Design Development & WordPress Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Irtajul/Irtajul](https://github.com/Irtajul/Irtajul)
+- 👨‍💻 All of my projects are available at [https://github.com/Irtajul](https://github.com/Irtajul)
 
 - 💬 Ask me about **Web Design Development & WordPress Development**
 
 - 📫 How to reach me **irtajul2016@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b3dzyH2JjdwLZW469Bi_Ux9bdtA4p_tt/view?usp=sharing](https://drive.google.com/file/d/1b3dzyH2JjdwLZW469Bi_Ux9bdtA4p_tt/view?usp=sharing)
 
 - ⚡ Fun fact **Learning**
 
@@ -37,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irtajul&show_icons=true&locale=en" alt="irtajul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtajul&" alt="irtajul" /></p>
-
