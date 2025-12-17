@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGbP8ByswOYCw/profile-displaybackgroundimage-shrink_350_1400/B56Zo3KLkeHkAY-/0/1761862009615?e=1764201600&v=beta&t=yFUMcWAxUpIrx1YHf-coXhnfLfhVXLRDZcwOtuv7_Ms">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHxmYwCZfOimg/profile-displaybackgroundimage-shrink_350_1400/B4EZqD4ky.HMAY-/0/1763149238761?e=1767830400&v=beta&t=4OVB7qfgDqHnuSgh8hYbi1lFSTaEp4e44AiKOnbd8ss">
 
 <h3 align="center">Creative Web Designer & Developer | WordPress Professional & Front-End Expert | Helping Small Businesses Grow by Building Stunning Websites.</h3>
 
